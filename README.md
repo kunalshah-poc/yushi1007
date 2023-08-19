@@ -32,7 +32,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 💼 Technical Skills
 
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="images/react.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
 ![React](https://img.shields.io/badge/react-F3F3F3?style=for-the-badge&logo=react&link=https%3A%2F%2Fwww.google.com)
 

@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋 
 </h3>
 
 <h2 align="center">
@@ -12,7 +12,7 @@ I'm a Front-end Web Developer 💻, Photographer 📸, and Designer 🎨!
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
-### 🤝 Connect with me:
+### 🤝 Connect with me: 
 
 <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
@@ -30,6 +30,9 @@ I love the entire process of developing creative websites. I love the challenge 
 - 
 
 ## 💼 Technical Skills
+
+https://img.shields.io/badge/react-F3F3F3?style=for-the-badge&logo=react&link=https%3A%2F%2Fwww.google.com
+
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

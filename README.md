@@ -32,17 +32,21 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 💼 Technical Skills
 
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="images/react.svg" alt="Yu Shi | LinkedIn" width="24px"/> <font color="#9900FF"> REACT </font></a>
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="images/react.svg" alt="Yu Shi | LinkedIn" width="24px"/><div style="color: #87CEEB"> REACT </div></a>
 
 <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="images/javascript.svg" alt="Yu Shi | LinkedIn" width="24px"/>JAVASCRIPT</a>
 
 <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="images/supabase.svg" alt="Yu Shi | LinkedIn" width="24px"/>SUPABASE</a>
 
 
+![Supabase](https://img.shields.io/badge/supabase-2320232a.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+&logoColor=%232023&link=https%3A%2F%2Fwww.google.com)
+
+
+
 ![React](https://img.shields.io/badge/react-F3F3F3?style=for-the-badge&logo=react&link=https%3A%2F%2Fwww.google.com)
 
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&c)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)

@@ -32,11 +32,11 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 💼 Technical Skills
 
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="images/react.svg" alt="Yu Shi | LinkedIn" width="24px"/></a>
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="images/react.svg" alt="Yu Shi | LinkedIn" width="24px"/> <font color="#9900FF"> REACT </font></a>
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="images/javascript.svg" alt="Yu Shi | LinkedIn" width="24px"/></a>
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="images/javascript.svg" alt="Yu Shi | LinkedIn" width="24px"/>JAVASCRIPT</a>
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="images/supabase.svg" alt="Yu Shi | LinkedIn" width="24px"/></a>
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="images/supabase.svg" alt="Yu Shi | LinkedIn" width="24px"/>SUPABASE</a>
 
 
 ![React](https://img.shields.io/badge/react-F3F3F3?style=for-the-badge&logo=react&link=https%3A%2F%2Fwww.google.com)

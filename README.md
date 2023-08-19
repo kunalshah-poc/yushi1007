@@ -1,23 +1,13 @@
-%%html
-<style>
-    .blue {
-        background-color: #0074D9;
-    }
-    .green {
-        background-color: #2ECC40;
-    }
-</style>
 
 
 <p align="center">
   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/205411672-eb589407-43a9-484a-b0cc-ed7caf280776.png" alt="my banner"></a>
 </p>
-<div stype=" background-color: #0074D9">
 
 <h3 align="center">
 Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋 
 </h3>
-</div>
+
 <h2 align="center">
 I'm a Front-end Web Developer 💻, Photographer 📸, and Designer 🎨!
 </h2> 
@@ -112,4 +102,3 @@ I love the entire process of developing creative websites. I love the challenge 
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
 
-</div>

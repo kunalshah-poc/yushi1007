@@ -45,6 +45,21 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ![Supabase](https://img.shields.io/badge/supabase-FFFFF4.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+U3VwYWJhc2U8L3RpdGxlPjxwYXRoIGQ9Ik0xMS45IDEuMDM2Yy0uMDE1LS45ODYtMS4yNi0xLjQxLTEuODc0LS42MzdMLjc2NCAxMi4wNUMtLjMzIDEzLjQyNy42NSAxNS40NTUgMi40MDkgMTUuNDU1aDkuNTc5bC4xMTMgNy41MWMuMDE0Ljk4NSAxLjI1OSAxLjQwOCAxLjg3My42MzZsOS4yNjItMTEuNjUzYzEuMDkzLTEuMzc1LjExMy0zLjQwMy0xLjY0NS0zLjQwM2gtOS42NDJ6Ii8+PC9zdmc+&logoColor=%233FCF8E&link=https%3A%2F%2Fwww.google.com)
 
+<a href="https://yushi95.medium.com/">
+<img src="https://img.shields.io/badge/supabase-FFFFF4.svg?
+  style=for-the badge
+&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+U3VwYWJhc2U8L3RpdGxlPjxwYXRoIGQ9Ik0xMS45IDEuMDM2Yy0uMDE1LS45ODYtMS4yNi0xLjQxLTEuODc0LS42MzdMLjc2NCAxMi4wNUMtLjMzIDEzLjQyNy42NSAxNS40NTUgMi40MDkgMTUuNDU1aDkuNTc5bC4xMTMgNy41MWMuMDE0Ljk4NSAxLjI1OSAxLjQwOCAxLjg3My42MzZsOS4yNjItMTEuNjUzYzEuMDkzLTEuMzc1LjExMy0zLjQwMy0xLjY0NS0zLjQwM2gtOS42NDJ6Ii8+PC9zdmc+" 
+  alt="Yu Shi | Medium" 
+  width="126px"/>
+</a>
+
+<a href="https://yushi95.medium.com/">
+<img src="https://img.shields.io/badge/supabase-FFFFF4.svg?
+  style=for-the badge
+&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+U3VwYWJhc2U8L3RpdGxlPjxwYXRoIGZpbGw9IiMzRkNGOEUiIGQ9Ik0xMS45IDEuMDM2Yy0uMDE1LS45ODYtMS4yNi0xLjQxLTEuODc0LS42MzdMLjc2NCAxMi4wNUMtLjMzIDEzLjQyNy42NSAxNS40NTUgMi40MDkgMTUuNDU1aDkuNTc5bC4xMTMgNy41MWMuMDE0Ljk4NSAxLjI1OSAxLjQwOCAxLjg3My42MzZsOS4yNjItMTEuNjUzYzEuMDkzLTEuMzc1LjExMy0zLjQwMy0xLjY0NS0zLjQwM2gtOS42NDJ6Ii8+PC9zdmc+Cg==" 
+  alt="Yu Shi | Medium" 
+  width="126px"/>
+</a>
 
 
 ![React](https://img.shields.io/badge/react-F3F3F3?style=for-the-badge&logo=react&link=https%3A%2F%2Fwww.google.com)
